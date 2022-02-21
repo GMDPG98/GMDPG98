@@ -4,9 +4,9 @@
 
 ### I'm current learning
 
-<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> <img  height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 
-<img  height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
