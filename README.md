@@ -2,6 +2,8 @@
 
 ## My name is Guilherme
 
+Hello, i'm Guilherme a programming student and web development student, i'm from São Paulo, Brazil. And here you'll find some informations about me, and what i'm actually doing, my knowledge and skills.
+
 ### I'm current learning
 
 <img height="50px" width="50px" padding-right="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> <img  height="50px" width="50px" padding-right="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> <img height="50px" width="50px" padding-right="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> <img height="50px" width="50px" padding-right="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
