@@ -10,7 +10,7 @@ Hello, i'm Guilherme a programming student and web development student, i'm from
 
 ### What i already had studied
 
-<img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/> <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> <img height="50px" width="50px" padding="20px" color="blue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+<img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/> <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> <img height="50px" width="50px" padding="20px" color="blue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/> <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
