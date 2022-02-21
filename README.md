@@ -8,6 +8,10 @@ Hello, i'm Guilherme a programming student and web development student, i'm from
 
 <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> <img  height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
+### What i already had studied
+
+<img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
