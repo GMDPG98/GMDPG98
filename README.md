@@ -1,10 +1,10 @@
 ### Hello and welcome to my profile 👋
 
-### My name is Guilherme
+## My name is Guilherme
 
-### I'm current learning
+# I'm current learning
 
-<img height="20px" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
