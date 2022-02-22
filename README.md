@@ -4,6 +4,8 @@
 
 Hello, i'm Guilherme a programming student and web development student, i'm from São Paulo, Brazil. And here you'll find some informations about me, and what i'm actually doing, my knowledge and skills.
 
+I love the open source and free software community, and i hope that in the future, when i feel more confident with my skills, i could contribute to a project and for the community itself.
+
 ### I'm current learning
 
 <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> <img  height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
