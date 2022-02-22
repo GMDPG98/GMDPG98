@@ -17,3 +17,10 @@ Hello, i'm Guilherme a programming student and web development student, i'm from
 ### My experiences
 
 I had worked for about 1 year as a freelancer web designer and wordpress developer, i'm enrolled in a Computer Science bachelor's degree, i did some web development courses, and so on. Recently i joined the 42sp basecamp (the virtual version of piscine from 42 school), and completed the whole experience. I have the repository of the exercises that i did at the basecamp, you can check at 42basecamp repo.
+
+### Contact me at
+
+<div>
+<a href = "mailto:guimarsondpgarcia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/guilherme-marson-d-paulo-garcia-b18b241b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
