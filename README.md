@@ -23,7 +23,7 @@ I had worked for about 1 year as a freelancer web designer and wordpress develop
 <div>
 <a href = "mailto:guimarsondpgarcia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "mailto:ciscoddsc@protonmail.com"><img color="grey" src="https://img.shields.io/badge/Protonmail-D14836?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/guilherme-marson-d-paulo-garcia-b18b241b5" target="_blank"><img pa src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/guilherme-marson-d-paulo-garcia-b18b241b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ### Most used languages/technologies
