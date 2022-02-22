@@ -26,6 +26,8 @@ I had worked for about 1 year as a freelancer web designer and wordpress develop
 <a href="https://www.linkedin.com/in/guilherme-marson-d-paulo-garcia-b18b241b5" target="_blank"><img pa src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+### Most used languages/technologies
+
 <div>
 <a href="https://github.com/GMDPG98">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMDPG98&layout=compact&langs_count=7&theme=dracula"/>
