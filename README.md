@@ -8,11 +8,15 @@ I love the open source and free software community, and i hope that in the futur
 
 ### I'm current learning
 
+<div>
 <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> <img  height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
+</div>
 
 ### What i already had studied (technologies / skills)
 
+<div>
 <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/> <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> <img height="50px" width="50px" padding="20px" color="blue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/> <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/> <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"/> <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> <img height="50px" width="50px" padding="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+</div>
 
 - I have basic and intermediate levels at this technologies.
 
