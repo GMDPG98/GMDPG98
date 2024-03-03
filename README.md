@@ -25,7 +25,19 @@ I'm always seeking opportunities to expand my knowledge and contribute to innova
 
 ### My experiences
 
-I had worked for about 1 year as a freelancer web designer and wordpress developer, i'm enrolled in a Computer Science bachelor's degree, i did some web development courses, and so on. Recently i joined the 42sp basecamp (the virtual version of piscine from 42 school), and completed the whole experience. I have the repository of the exercises that i did at the basecamp, you can check at 42basecamp repo.
+- Back-End development with C# and .Net Framework, focusing on microservices.
+- Automations and data migration using Python and MySQL.
+- Maintenance of MySQL databases.
+- Team communication and collaboration for better decision-making.
+- Proactivity and willingness to share knowledge.
+- Brief experience in Delphi programming.
+- Jira and Agile Methodologies.
+- API testing with Postman.
+- Maintenance of Laravel application.
+- Maintenance of Flutter application.
+- Code versioning with Git and Bitbucket.
+- Organizing and improving projects in Jira to which I contributed.
+- Maintenance of WordPress client websites.
 
 ### Contact me at
 
