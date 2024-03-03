@@ -2,9 +2,12 @@
 
 ## My name is Guilherme
 
-Hello, i'm Guilherme a programming student and web development student, i'm from São Paulo, Brazil. And here you'll find some informations about me, and what i'm actually doing, my knowledge and skills.
+I'm a Computer Science graduate from Anhanguera University in São Paulo, and I work as a Developer with a specialization in Back-End and Front-End, using WordPress, CSS, HTML, Javascript, C#, PHP with Laravel, among other technologies. 
 
-I love the open source and free software community, and i hope that in the future, when i feel more confident with my skills, i could contribute to a project and for the community itself.
+Currently, I'm enhancing my skills in Javascript ES6 through Origamid and MongoDB through Udemy. I have experience in Git, Github, Bitbucket, and MySQL, web development with WordPress, CSS, HTML, and Javascript, as well as back-end development with C# in MVC architecture and Microservices. 
+I also have experience in automation and data migration with Python, and in DevOps operations using AWS, Linux, and Docker.
+
+I'm always seeking opportunities to expand my knowledge and contribute to innovative projects.
 
 ### I'm current learning
 
