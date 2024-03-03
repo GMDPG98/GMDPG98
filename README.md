@@ -38,6 +38,7 @@ I'm always seeking opportunities to expand my knowledge and contribute to innova
 - Code versioning with Git and Bitbucket.
 - Organizing and improving projects in Jira to which I contributed.
 - Maintenance of WordPress client websites.
+- Project versioning and build using Docker for DevOps operations.
 
 ### Contact me at
 
